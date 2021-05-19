@@ -12,6 +12,8 @@ from app.models.pydantic import (  # isort:skip
     SummaryUpdatePayloadSchema,
 )
 
+
+
 router = APIRouter()
 
 
