@@ -2,7 +2,7 @@
 
 ![Continuous Integration and Delivery](https://github.com/effr2/text-summarization-service/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=master)
 			
-Restful api that produces summaries of web pages.
+Restful API that produces summaries of web pages. Try the methods out in the [docs](<https://tinyurl.com/z2xv26up>)! 
 
 ## API
 
@@ -18,3 +18,5 @@ Restful api that produces summaries of web pages.
 This API was built with Python, FastAPI and Newspaper3k Natural Language Processing library. Docker is used to set up the local development environment. Tortoise ORM is used to interact with the Postgres database. Finally, pytest is used for unit and integration tests. 
 
 I decided to use GitHub Actions for CI/CD and Heroku to host the service
+
+This is an ongoing project.
