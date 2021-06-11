@@ -15,7 +15,7 @@ Restful API that produces summaries of web pages. Try the methods out in the [do
 |/summaries/:id/|	DELETE|	DELETE	|delete a summary|
 
 ## Tools
-This API was built with Python, FastAPI and Newspaper3k Natural Language Processing library. Docker is used to set up the local development environment. Tortoise ORM is used to interact with the Postgres database. Finally, pytest is used for unit and integration tests. 
+This API was built with Python, FastAPI and Newspaper3k Natural Language Processing library. Docker is used to set up the local development environment. Tortoise ORM is used to interact with the PostgreSQL database. Finally, pytest is used for unit and integration tests. 
 
 I decided to use GitHub Actions for CI/CD and Heroku to host the service
 
