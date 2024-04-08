@@ -2,7 +2,7 @@
 
 ![Continuous Integration and Delivery](https://github.com/effr2/text-summarization-service/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=master)
 			
-Restful API that produces summaries of web pages. Try the methods out in the [docs](<https://tinyurl.com/z2xv26up>)! 
+Restful API that produces summaries of web pages. 
 
 ## API
 
